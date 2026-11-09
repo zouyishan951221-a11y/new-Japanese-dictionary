@@ -1,0 +1,2 @@
+# 本機測試用：複製成 .dev.vars 並填入金鑰（.dev.vars 已被 .gitignore 排除，不會上傳）
+ANTHROPIC_API_KEY=sk-ant-xxxxxxxx
